@@ -1,0 +1,22 @@
+{
+  "name": "iif_then_rxjs",
+  "version": "1.0.0",
+  "description": "If-Then operator for rxjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "AParziale",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
